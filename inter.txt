@@ -2,3 +2,4 @@ simple
 demo
 git
 new add
+lenovo
